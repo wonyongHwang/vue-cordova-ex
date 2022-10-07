@@ -30,7 +30,7 @@ cordova platform add android
 
 (참조 : https://github.com/storesafe/cordova-sqlite-storage/issues/856)
 
-### Running on Android (프로젝트 루트 디렉토리에서 실행)
+### Running on Android (프로젝트 루트 디렉토리에서 실행, 사전에 안드로이드 에뮬레이터 실행 필수)
 ```
 npm run cordova-serve-android
 ```
